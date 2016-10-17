@@ -1,0 +1,17 @@
+{
+  "name": "inferno1",
+  "version": "0.0.0",
+  "description": "inferno 1 pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "undoZen",
+  "license": "MIT",
+  "dependencies": {
+    "inferno": "^1.0.0-beta4",
+    "inferno-compat": "^1.0.0-beta4",
+    "inferno-create-element": "^1.0.0-beta4",
+    "inferno-dom": "^1.0.0-beta4"
+  }
+}

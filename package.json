@@ -13,7 +13,6 @@
     "inferno-compat": "^1.0.0-beta4",
     "inferno-create-element": "^1.0.0-beta4",
     "inferno-dom": "^1.0.0-beta4",
-    "lodash": "^4",
-    "virtual-dom": "^2"
+    "inferno-hyperscript": "^1.0.0-beta4"
   }
 }
